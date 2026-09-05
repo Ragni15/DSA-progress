@@ -1,10 +1,9 @@
-import java.util.*;
 class Solution {
     boolean isPalindrome(String s) {
         // code here
-        String og = s;
-        String st = new StringBuilder(s).reverse().toString();
-        if(st.equals(og)) return true;
+        StringBuilder sb = new StringBuilder(s);
+        sb.reverse();
+        if(sb.toString().equals(s)) return true;
         return false;
     }
 }
