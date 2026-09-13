@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Ragni15/DSA-progress/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ragni15/DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/Ragni15/DSA-progress/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Ragni15/DSA-progress/tree/master/0135-candy) |
 | [3842-toggle-light-bulbs](https://github.com/Ragni15/DSA-progress/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
@@ -67,4 +68,5 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Ragni15/DSA-progress/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Ragni15/DSA-progress/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
