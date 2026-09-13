@@ -8,11 +8,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ragni15/DSA-progress/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/Ragni15/DSA-progress/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ragni15/DSA-progress/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
 | [3842-toggle-light-bulbs](https://github.com/Ragni15/DSA-progress/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ragni15/DSA-progress/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ragni15/DSA-progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ragni15/DSA-progress/tree/master/0387-first-unique-character-in-a-string) |
 | [3842-toggle-light-bulbs](https://github.com/Ragni15/DSA-progress/tree/master/3842-toggle-light-bulbs) |
@@ -26,6 +28,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Ragni15/DSA-progress/tree/master/0242-valid-anagram) |
 | [3842-toggle-light-bulbs](https://github.com/Ragni15/DSA-progress/tree/master/3842-toggle-light-bulbs) |
 ## Simulation
@@ -47,6 +50,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ragni15/DSA-progress/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -69,4 +73,12 @@
 | ------- |
 | [0134-gas-station](https://github.com/Ragni15/DSA-progress/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Ragni15/DSA-progress/tree/master/0135-candy) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
