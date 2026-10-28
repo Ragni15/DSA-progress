@@ -43,6 +43,7 @@
 | [0242-valid-anagram](https://github.com/Ragni15/DSA-progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ragni15/DSA-progress/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ragni15/DSA-progress/tree/master/0387-first-unique-character-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Ragni15/DSA-progress/tree/master/1143-longest-common-subsequence) |
 ## Queue
 |  |
 | ------- |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ragni15/DSA-progress/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ragni15/DSA-progress/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Ragni15/DSA-progress/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
